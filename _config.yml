@@ -4,7 +4,7 @@ description: >- # site description
   This is the personal blog of John Un. If you would like to receive updates by email, please subscribe to my newsletter. You can also hit me up on <a href="https://twitter.com/iamjohnun" target="_blank" rel="noopener">twitter</a>.
 lang: en-US # default lang
 timezone: Australia/Perth # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/avatar.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/johnun/ # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -12,13 +12,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: John Un # author name
   bio: >- # tell to the world
-    Mining Engineer ⛏️  Web Enthusiast 💻  Bitcoin Believer ₿
-  username: username # general username
+    Mining Engineer. Web Enthusiast. ₿itcoin Optimist.
+  username: johnun # general username
   github: johnun # github username
   twitter: iamjohnun # twitter username
   facebook: facebook_username # facebook username
   email: john@johnun.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
 url: "https://www.johnun.com" #
